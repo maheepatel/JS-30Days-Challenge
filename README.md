@@ -11,4 +11,4 @@ Revised JS Array Methods:
 2. map()
 3. reduce()
 4. sort()
-<h2>Flex Panels Image Gallery</h2>
+<h2>Day5 Flex Panels Image Gallery</h2>
