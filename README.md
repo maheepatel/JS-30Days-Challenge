@@ -12,3 +12,4 @@ Revised JS Array Methods:
 3. reduce()
 4. sort()
 <h2>Day5 Flex Panels Image Gallery</h2>
+Playing around with flex box: https://aquamarine-sunflower-a883f7.netlify.app/
