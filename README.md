@@ -13,3 +13,4 @@ Revised JS Array Methods:
 4. sort()
 <h2>Day5 Flex Panels Image Gallery</h2>
 Playing around with flex box: https://aquamarine-sunflower-a883f7.netlify.app/
+<h2>Ajax Type Ahead</h2>
