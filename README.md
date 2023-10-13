@@ -14,3 +14,4 @@ Revised JS Array Methods:
 <h2>Day5 Flex Panels Image Gallery</h2>
 Playing around with flex box: https://aquamarine-sunflower-a883f7.netlify.app/
 <h2>Day6 Ajax Type Ahead</h2>
+Built search feature to filter using cities or state: https://cheerful-cascaron-716986.netlify.app
