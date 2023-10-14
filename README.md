@@ -15,3 +15,9 @@ Revised JS Array Methods:
 Playing around with flex box: https://aquamarine-sunflower-a883f7.netlify.app/
 <h2>Day6 Ajax Type Ahead</h2>
 Built search feature to filter using cities or state: https://cheerful-cascaron-716986.netlify.app
+<h2>Day7 Array Cardio-2</h2>
+Learnt JS Array methods:
+1. some()
+2. every()
+3. find()
+4. findIndex()
