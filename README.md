@@ -21,3 +21,4 @@ Learnt JS Array methods:
 2. every()
 3. find()
 4. findIndex()
+<h2>Day8 Fun with HTML Canvas</h2>
