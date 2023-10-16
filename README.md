@@ -22,4 +22,4 @@ Learnt JS Array methods:
 3. find()
 4. findIndex()
 <h2>Day8 Fun with HTML Canvas</h2>
-Fun with HTML5 canvs. Draw anything using mouse: https://symphonious-figolla-856d20.netlify.app/ 
+Fun with HTML5 canvs.Draw anything using mouse:  https://symphonious-figolla-856d20.netlify.app
