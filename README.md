@@ -36,4 +36,5 @@ Fun with HTML5 canvs.Draw anything using mouse:  https://symphonious-figolla-856
 10.console.groupEnd
 11.console.time/timeEnd
 12.console.table
+<h2>Day10 Hold Shift to Check Multiple Checkboxes</h2>
 
